@@ -233,7 +233,9 @@ h3 {
     font-size: 19px;
     letter-spacing: 5px;
   }
-
+ .right-card > h2 {
+    width: 200px;
+  }
   h2 {
     font-size: 40px;
   }
